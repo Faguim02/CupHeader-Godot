@@ -1,0 +1,29 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scene/Player.tscn" type="PackedScene" id=1]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 427, 5 )
+
+[node name="Cenario" type="Node2D"]
+
+[node name="Background" type="ColorRect" parent="."]
+margin_right = 1054.0
+margin_bottom = 608.0
+color = Color( 0.819608, 0.819608, 0.819608, 1 )
+
+[node name="Ground" type="ColorRect" parent="."]
+margin_left = 74.0
+margin_top = 536.0
+margin_right = 927.0
+margin_bottom = 537.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Ground"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Ground/StaticBody2D"]
+position = Vector2( 426, 6 )
+shape = SubResource( 1 )
+
+[node name="Player" parent="." instance=ExtResource( 1 )]
+position = Vector2( 113, 487 )

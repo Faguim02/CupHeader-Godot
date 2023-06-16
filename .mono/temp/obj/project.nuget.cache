@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6b8CZiLPgni6r1cW+4Qc6d5wMQe5mcKa3aawMKb4/UO/yfbA15dpKvZIuVzN8fil/WGKrhCTsvLnEKrLo0QbBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micro\\Desktop\\Arquivo\\GameDev\\Games\\Cupheder\\Cupheder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

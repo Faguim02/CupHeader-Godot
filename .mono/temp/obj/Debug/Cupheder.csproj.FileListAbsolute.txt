@@ -1,0 +1,8 @@
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\bin\Debug\Cupheder.dll
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\bin\Debug\Cupheder.pdb
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\obj\Debug\Cupheder.csprojAssemblyReference.cache
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\obj\Debug\Cupheder.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\obj\Debug\Cupheder.AssemblyInfo.cs
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\obj\Debug\Cupheder.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\obj\Debug\Cupheder.dll
+C:\Users\Micro\Desktop\Arquivo\GameDev\Games\Cupheder\.mono\temp\obj\Debug\Cupheder.pdb
